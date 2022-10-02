@@ -1,0 +1,19 @@
+#Illagers In Raids Attack Animals?
+"Illagers in raids attack animals?" = false
+#Witches Attack Villagers?
+"Witches attack villagers?" = true
+#This will make Illusioners get involved in raids
+"Have illusioners in raids?" = true
+#Guards will attack all hostiles with this option
+"Guards attack all mobs?" = false
+#Guards won't attack mobs in this list if AttackAllMobs is enabled, for example, putting minecraft:creeper in this list will make guards ignore creepers.
+"Mob BlackList" = []
+#This makes villagers run from polar bears, as anyone with common sense would.
+"Have Villagers have some common sense?" = true
+#This makes Illagers run from polar bears, as anyone with common sense would.
+"Have Illagers have some common sense?" = true
+#This makes Guards run from polar bears, as anyone with common sense would.
+"Have Guards have some common sense?" = false
+#This lets Guards open doors.
+"Have Guards open doors?" = true
+
