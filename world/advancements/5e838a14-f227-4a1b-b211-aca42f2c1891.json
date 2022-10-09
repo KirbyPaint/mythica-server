@@ -1509,6 +1509,7 @@
       "find_betterendforge:painted_mountains": "2022-10-01 16:29:05 -0700",
       "find_betterendforge:blossoming_spires": "2022-10-01 23:13:36 -0700",
       "find_betterendforge:shadow_forest": "2022-10-01 23:54:36 -0700",
+      "find_betterendforge:megalake": "2022-10-09 13:33:50 -0700",
       "find_betterendforge:amber_land": "2022-10-01 16:29:45 -0700",
       "find_betterendforge:dust_wastelands": "2022-10-01 16:14:23 -0700"
     },
@@ -4406,6 +4407,12 @@
     },
     "done": true
   },
+  "outer_end:end/find_end_tower": {
+    "criteria": {
+      "in_tower": "2022-10-09 13:24:41 -0700"
+    },
+    "done": true
+  },
   "structurize:recipes/structurize/white_floating_carpet": {
     "criteria": {
       "has_the_recipe": "2022-10-01 14:07:49 -0700"
@@ -6949,6 +6956,12 @@
       "has_the_recipe": "2022-10-01 14:08:00 -0700"
     },
     "done": true
+  },
+  "repurposed_structures:outposts": {
+    "criteria": {
+      "in_outpost_snowy": "2022-10-09 12:34:47 -0700"
+    },
+    "done": false
   },
   "structurize:recipes/structurize.timber_frames/plain_birch_spruce_timber_frame": {
     "criteria": {
@@ -14999,7 +15012,8 @@
   "repurposed_structures:pyramids": {
     "criteria": {
       "in_pyramid_icy": "2022-10-08 17:28:41 -0700",
-      "in_pyramid_ocean": "2022-10-08 17:38:31 -0700"
+      "in_pyramid_ocean": "2022-10-08 17:38:31 -0700",
+      "in_pyramid_snowy": "2022-10-09 12:24:28 -0700"
     },
     "done": false
   },
@@ -17166,6 +17180,12 @@
   "structurize:recipes/structurize.timber_frames/side_framed_horizontal_oak_brown_terracotta_timber_frame": {
     "criteria": {
       "has_the_recipe": "2022-10-01 14:08:07 -0700"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_ghost": {
+    "criteria": {
+      "killed_fire_dragon": "2022-10-09 12:31:28 -0700"
     },
     "done": true
   },
@@ -31960,6 +31980,12 @@
     },
     "done": true
   },
+  "repurposed_structures:ruined_portal_end": {
+    "criteria": {
+      "in_ruined_portal_end": "2022-10-09 13:34:19 -0700"
+    },
+    "done": true
+  },
   "structurize:recipes/structurize.timber_frames/plain_oak_oak_timber_frame_crafted": {
     "criteria": {
       "has_the_recipe": "2022-10-01 14:07:56 -0700"
@@ -32421,6 +32447,12 @@
   "minecraft:recipes/redstone/warped_door": {
     "criteria": {
       "has_planks": "2021-08-24 23:09:34 -0700"
+    },
+    "done": true
+  },
+  "betteranimalsplus:jellyfish_sting": {
+    "criteria": {
+      "jellyfish_sting": "2022-10-09 12:34:20 -0700"
     },
     "done": true
   },
