@@ -161,6 +161,24 @@
     },
     "done": true
   },
+  "mcwfurnitures:recipes/spruce/spruce_pult_2": {
+    "criteria": {
+      "has_planks": "2022-10-09 22:43:36 -0700"
+    },
+    "done": true
+  },
+  "mcwfurnitures:recipes/spruce/spruce_pult_3": {
+    "criteria": {
+      "has_planks": "2022-10-09 22:43:36 -0700"
+    },
+    "done": true
+  },
+  "mcwfurnitures:recipes/spruce/spruce_pult_4": {
+    "criteria": {
+      "has_planks": "2022-10-09 22:43:36 -0700"
+    },
+    "done": true
+  },
   "structurize:recipes/structurize.timber_frames/horizontal_plain_jungle_orange_terracotta_timber_frame": {
     "criteria": {
       "has_the_recipe": "2022-10-01 14:07:54 -0700"
@@ -188,6 +206,12 @@
   "structurize:recipes/structurize.timber_frames/double_crossed_warped_blackstone_timber_frame": {
     "criteria": {
       "has_the_recipe": "2022-10-01 14:08:06 -0700"
+    },
+    "done": true
+  },
+  "mcwfurnitures:recipes/spruce/spruce_pult_1": {
+    "criteria": {
+      "has_planks": "2022-10-09 22:43:36 -0700"
     },
     "done": true
   },
@@ -20579,6 +20603,12 @@
   "structurize:recipes/structurize.timber_frames/one_crossed_rl_dark_oak_brown_brick_timber_frame": {
     "criteria": {
       "has_the_recipe": "2022-10-01 14:08:01 -0700"
+    },
+    "done": true
+  },
+  "valhelsia_structures:recipes/valhelsia_structures_main/spruce_post": {
+    "criteria": {
+      "has_item": "2022-10-09 22:43:36 -0700"
     },
     "done": true
   },
