@@ -1413,6 +1413,12 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/dragonsteel": {
+    "criteria": {
+      "ice": "2022-10-15 16:47:09 -0700"
+    },
+    "done": true
+  },
   "minecolonies:production/deep_mine": {
     "criteria": {
       "mineshaft": "2022-10-01 15:09:34 -0700"
@@ -2688,6 +2694,12 @@
   "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
     "criteria": {
       "has_mossy_cobblestone": "2021-08-28 00:44:36 -0700"
+    },
+    "done": true
+  },
+  "minecolonies:minecolonies/citizen_eat_food_rotten_flesh": {
+    "criteria": {
+      "citizen_eat_rotten_flesh": "2022-10-17 19:08:46 -0700"
     },
     "done": true
   },
@@ -5793,6 +5805,12 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/kill_stymphalian_bird": {
+    "criteria": {
+      "killed_fire_dragon": "2022-10-16 19:22:18 -0700"
+    },
+    "done": true
+  },
   "structurize:recipes/structurize.timber_frames/one_crossed_lr_acacia_beige_brick_timber_frame": {
     "criteria": {
       "has_the_recipe": "2022-10-01 14:07:50 -0700"
@@ -6072,6 +6090,12 @@
   "minecraft:recipes/building_blocks/cut_sandstone_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2021-08-27 21:43:21 -0700"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/bestiary": {
+    "criteria": {
+      "bestiary": "2022-10-15 17:39:37 -0700"
     },
     "done": true
   },
@@ -6735,6 +6759,12 @@
     },
     "done": true
   },
+  "valhelsia_structures:recipes/valhelsia_structures_main/jungle_post": {
+    "criteria": {
+      "has_item": "2022-10-18 15:48:30 -0700"
+    },
+    "done": true
+  },
   "structurize:recipes/structurize.timber_frames/plain_warped_beige_brick_timber_frame_crafted": {
     "criteria": {
       "has_the_recipe": "2022-10-01 14:08:06 -0700"
@@ -6983,6 +7013,8 @@
   },
   "repurposed_structures:outposts": {
     "criteria": {
+      "in_outpost_nether_brick": "2022-10-16 18:26:29 -0700",
+      "in_outpost_warped": "2022-10-16 18:21:01 -0700",
       "in_outpost_snowy": "2022-10-09 12:34:47 -0700"
     },
     "done": false
@@ -9975,15 +10007,33 @@
     },
     "done": true
   },
+  "mcwfurnitures:recipes/jungle/jungle_pult_2": {
+    "criteria": {
+      "has_planks": "2022-10-18 15:48:30 -0700"
+    },
+    "done": true
+  },
   "mcwfurnitures:recipes/dark_oak/dark_oak_glass_desk_left": {
     "criteria": {
       "has_the_recipe": "2022-10-01 14:07:51 -0700"
     },
     "done": true
   },
+  "mcwfurnitures:recipes/jungle/jungle_pult_3": {
+    "criteria": {
+      "has_planks": "2022-10-18 15:48:30 -0700"
+    },
+    "done": true
+  },
   "structurize:recipes/structurize.timber_frames/framed_jungle_orange_terracotta_timber_frame": {
     "criteria": {
       "has_the_recipe": "2022-10-01 14:08:02 -0700"
+    },
+    "done": true
+  },
+  "mcwfurnitures:recipes/jungle/jungle_pult_4": {
+    "criteria": {
+      "has_planks": "2022-10-18 15:48:30 -0700"
     },
     "done": true
   },
@@ -10014,6 +10064,12 @@
   "structurize:recipes/structurize.timber_frames/up_gated_acacia_black_terracotta_timber_frame": {
     "criteria": {
       "has_the_recipe": "2022-10-01 14:08:02 -0700"
+    },
+    "done": true
+  },
+  "mcwfurnitures:recipes/jungle/jungle_pult_1": {
+    "criteria": {
+      "has_planks": "2022-10-18 15:48:30 -0700"
     },
     "done": true
   },
@@ -12051,9 +12107,33 @@
     },
     "done": true
   },
+  "mcwfurnitures:recipes/crimson/crimson_pult_4": {
+    "criteria": {
+      "has_planks": "2022-10-16 18:03:11 -0700"
+    },
+    "done": true
+  },
   "structurize:recipes/structurize.timber_frames/framed_spruce_dark_oak_timber_frame": {
     "criteria": {
       "has_the_recipe": "2022-10-01 14:08:05 -0700"
+    },
+    "done": true
+  },
+  "mcwfurnitures:recipes/crimson/crimson_pult_2": {
+    "criteria": {
+      "has_planks": "2022-10-16 18:03:11 -0700"
+    },
+    "done": true
+  },
+  "mcwfurnitures:recipes/crimson/crimson_pult_3": {
+    "criteria": {
+      "has_planks": "2022-10-16 18:03:11 -0700"
+    },
+    "done": true
+  },
+  "mcwfurnitures:recipes/crimson/crimson_pult_1": {
+    "criteria": {
+      "has_planks": "2022-10-16 18:03:11 -0700"
     },
     "done": true
   },
@@ -12960,6 +13040,12 @@
   "structurize:recipes/structurize.timber_frames/horizontal_plain_cactus_jungle_timber_frame": {
     "criteria": {
       "has_the_recipe": "2022-10-01 14:07:52 -0700"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/rotten_egg": {
+    "criteria": {
+      "bestiary": "2022-10-16 19:38:18 -0700"
     },
     "done": true
   },
@@ -15037,6 +15123,7 @@
     "criteria": {
       "in_pyramid_icy": "2022-10-08 17:28:41 -0700",
       "in_pyramid_ocean": "2022-10-08 17:38:31 -0700",
+      "in_pyramid_nether": "2022-10-16 18:24:49 -0700",
       "in_pyramid_snowy": "2022-10-09 12:24:28 -0700"
     },
     "done": false
@@ -21092,6 +21179,12 @@
     },
     "done": true
   },
+  "minecolonies:minecolonies/build_citizen": {
+    "criteria": {
+      "citizens_hut": "2022-10-18 16:18:44 -0700"
+    },
+    "done": true
+  },
   "betterendforge:recipes/betterendforge/tenanea_pressure_plate": {
     "criteria": {
       "has_the_recipe": "2022-10-01 14:08:04 -0700"
@@ -21466,6 +21559,8 @@
   },
   "repurposed_structures:mineshafts": {
     "criteria": {
+      "in_mineshaft_jungle": "2022-10-16 18:39:55 -0700",
+      "in_mineshaft_crimson": "2022-10-16 18:02:03 -0700",
       "in_mineshaft_savanna": "2022-10-08 17:56:55 -0700"
     },
     "done": false
@@ -22287,6 +22382,12 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/lectern": {
+    "criteria": {
+      "bestiary": "2022-10-15 17:39:20 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/fire_charge": {
     "criteria": {
       "has_blaze_powder": "2021-08-24 22:56:32 -0700"
@@ -22752,6 +22853,12 @@
   "valhelsia_structures:recipes/valhelsia_structures_main/big_pink_glazed_jar": {
     "criteria": {
       "has_the_recipe": "2022-10-01 14:07:52 -0700"
+    },
+    "done": true
+  },
+  "minecolonies:minecolonies/start_builder": {
+    "criteria": {
+      "builder_request": "2022-10-18 15:22:53 -0700"
     },
     "done": true
   },
@@ -24150,6 +24257,12 @@
   "structurize:recipes/structurize.timber_frames/up_gated_crimson_jungle_timber_frame": {
     "criteria": {
       "has_the_recipe": "2022-10-01 14:08:07 -0700"
+    },
+    "done": true
+  },
+  "valhelsia_structures:recipes/valhelsia_structures_main/acacia_post": {
+    "criteria": {
+      "has_item": "2022-10-18 16:08:22 -0700"
     },
     "done": true
   },
@@ -27358,6 +27471,12 @@
     },
     "done": true
   },
+  "minecolonies:minecolonies/check_out_guide": {
+    "criteria": {
+      "click_gui_button_close": "2022-10-18 15:22:00 -0700"
+    },
+    "done": true
+  },
   "structurize:recipes/structurize.timber_frames/plain_oak_light_gray_terracotta_timber_frame_crafted": {
     "criteria": {
       "has_the_recipe": "2022-10-01 14:07:57 -0700"
@@ -29592,6 +29711,12 @@
     },
     "done": true
   },
+  "mca:hunted": {
+    "criteria": {
+      "iron": "2022-10-16 19:30:17 -0700"
+    },
+    "done": true
+  },
   "structurize:recipes/structurize.timber_frames/side_framed_horizontal_spruce_red_terracotta_timber_frame": {
     "criteria": {
       "has_the_recipe": "2022-10-01 14:07:57 -0700"
@@ -29759,6 +29884,13 @@
       "has_the_recipe": "2022-10-01 14:08:08 -0700"
     },
     "done": true
+  },
+  "repurposed_structures:temples": {
+    "criteria": {
+      "in_temple_nether_wasteland": "2022-10-16 18:31:15 -0700",
+      "in_temple_nether_warped": "2022-10-16 18:22:36 -0700"
+    },
+    "done": false
   },
   "structurize:recipes/structurize.timber_frames/horizontal_plain_crimson_warped_timber_frame": {
     "criteria": {
@@ -32834,6 +32966,12 @@
     },
     "done": true
   },
+  "valhelsia_structures:recipes/valhelsia_structures_main/crimson_post": {
+    "criteria": {
+      "has_item": "2022-10-16 18:03:11 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/andesite_stairs_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2021-08-19 20:23:59 -0700"
@@ -34430,15 +34568,39 @@
     },
     "done": true
   },
+  "mcwfurnitures:recipes/acacia/acacia_pult_2": {
+    "criteria": {
+      "has_planks": "2022-10-18 16:08:22 -0700"
+    },
+    "done": true
+  },
+  "mcwfurnitures:recipes/acacia/acacia_pult_3": {
+    "criteria": {
+      "has_planks": "2022-10-18 16:08:22 -0700"
+    },
+    "done": true
+  },
   "structurize:recipes/structurize.timber_frames/side_framed_cactus_terracotta_timber_frame": {
     "criteria": {
       "has_the_recipe": "2022-10-01 14:08:07 -0700"
     },
     "done": true
   },
+  "mcwfurnitures:recipes/acacia/acacia_pult_4": {
+    "criteria": {
+      "has_planks": "2022-10-18 16:08:22 -0700"
+    },
+    "done": true
+  },
   "structurize:recipes/structurize.shingles/red_clay_birch_shingle": {
     "criteria": {
       "has_the_recipe": "2022-10-01 14:08:02 -0700"
+    },
+    "done": true
+  },
+  "mcwfurnitures:recipes/acacia/acacia_pult_1": {
+    "criteria": {
+      "has_planks": "2022-10-18 16:08:22 -0700"
     },
     "done": true
   },
@@ -36936,6 +37098,12 @@
       "has_the_recipe": "2022-10-01 14:08:08 -0700"
     },
     "done": true
+  },
+  "repurposed_structures:ruins": {
+    "criteria": {
+      "in_ruins_nether": "2022-10-16 18:21:25 -0700"
+    },
+    "done": false
   },
   "structurize:recipes/structurize.timber_frames/plain_acacia_blackstone_timber_frame_crafted": {
     "criteria": {
