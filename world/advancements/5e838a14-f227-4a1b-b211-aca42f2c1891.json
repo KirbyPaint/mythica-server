@@ -1509,14 +1509,6 @@
     },
     "done": true
   },
-  "betteranimalsplus:animal_head_variants": {
-    "criteria": {
-      "boarhead_gray": "2022-10-01 22:43:45 -0700",
-      "boarhead_light_brown": "2022-10-01 22:43:57 -0700",
-      "head4": "2022-10-01 22:43:58 -0700"
-    },
-    "done": false
-  },
   "outer_end:end/explore_end": {
     "criteria": {
       "find_minecraft:end_barrens": "2022-10-01 16:14:16 -0700",
@@ -18419,12 +18411,6 @@
     },
     "done": true
   },
-  "betteranimalsplus:root": {
-    "criteria": {
-      "tick": "2022-10-01 14:08:09 -0700"
-    },
-    "done": true
-  },
   "structurize:recipes/structurize.timber_frames/down_gated_oak_magenta_terracotta_timber_frame": {
     "criteria": {
       "has_the_recipe": "2022-10-01 14:08:08 -0700"
@@ -29625,14 +29611,6 @@
     },
     "done": true
   },
-  "betteranimalsplus:animal_head_all": {
-    "criteria": {
-      "head16": "2022-10-01 22:43:45 -0700",
-      "head14": "2022-10-01 22:43:57 -0700",
-      "head4": "2022-10-01 22:43:58 -0700"
-    },
-    "done": false
-  },
   "structurize:recipes/structurize.timber_frames/side_framed_horizontal_spruce_oak_timber_frame": {
     "criteria": {
       "has_the_recipe": "2022-10-01 14:08:02 -0700"
@@ -32612,12 +32590,6 @@
     },
     "done": true
   },
-  "betteranimalsplus:jellyfish_sting": {
-    "criteria": {
-      "jellyfish_sting": "2022-10-09 12:34:20 -0700"
-    },
-    "done": true
-  },
   "structurize:recipes/structurize.timber_frames/framed_crimson_black_terracotta_timber_frame": {
     "criteria": {
       "has_the_recipe": "2022-10-01 14:08:06 -0700"
@@ -33119,12 +33091,6 @@
   "structurize:recipes/structurize.timber_frames/up_gated_acacia_warped_timber_frame": {
     "criteria": {
       "has_the_recipe": "2022-10-01 14:07:57 -0700"
-    },
-    "done": true
-  },
-  "betteranimalsplus:animal_head_first": {
-    "criteria": {
-      "head16": "2022-10-01 22:43:45 -0700"
     },
     "done": true
   },
